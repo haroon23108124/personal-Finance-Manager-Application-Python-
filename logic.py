@@ -726,5 +726,5 @@ def export_user_data(username):
     except pd.errors.EmptyDataError:
          return "Transaction data file is empty for export."
     except Exception as e:
-         print(f"Error exporting data for {username}: {e}") # Debug print
+         print(f"Error exporting data for {username}: {e}") # Debug print text
          return f"Error exporting data: {e}"
