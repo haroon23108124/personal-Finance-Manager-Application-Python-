@@ -48,6 +48,7 @@ The `logic.py` module leverages standard Python libraries and external packages 
 - `matplotlib.pyplot`: Used for generating plots (monthly trend, expense pie chart, prediction graph).
 - `sklearn.linear_model.LinearRegression`: The core component for the expense prediction functionality.
 - `numpy`: Used in conjunction with scikit-learn for numerical operations, especially array manipulation for the linear regression model.
+![Project Banner](images/banner.png)
 
 ## 📂 Data Persistence
 
