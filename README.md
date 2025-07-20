@@ -1,4 +1,4 @@
-
+![Project Banner](images/banner.png)
 # 🧠 personal Finance Manager Application (Python)
 
 This document describes the core logic and data handling components of the Personal Finance Manager application, primarily implemented in `logic.py`. This module is responsible for managing user accounts, processing financial transactions, handling budgets and loans, scheduling recurring expenses, and providing data analysis and prediction capabilities, independent of the graphical user interface.
@@ -48,7 +48,7 @@ The `logic.py` module leverages standard Python libraries and external packages 
 - `matplotlib.pyplot`: Used for generating plots (monthly trend, expense pie chart, prediction graph).
 - `sklearn.linear_model.LinearRegression`: The core component for the expense prediction functionality.
 - `numpy`: Used in conjunction with scikit-learn for numerical operations, especially array manipulation for the linear regression model.
-![Project Banner](images/banner.png)
+
 
 ## 📂 Data Persistence
 
