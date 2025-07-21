@@ -1,4 +1,5 @@
 ## Developed by Haroon
+![Project Banner](images/banner.png)
 # 🧠 personal Finance Manager Application (Python)
 
 This document describes the core logic and data handling components of the Personal Finance Manager application, primarily implemented in `logic.py`. This module is responsible for managing user accounts, processing financial transactions, handling budgets and loans, scheduling recurring expenses, and providing data analysis and prediction capabilities, independent of the graphical user interface.
